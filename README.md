@@ -4,4 +4,4 @@ A two player scorer for games like odd-even or stone-papper-scissors.
 <br>
 Just clone all files from repository and open scorer.html.
 <br>
-<img src="https://repository-images.githubusercontent.com/271060069/08699e80-aaba-11ea-9e08-ba55fd15a8c9" alt="APPLICATION PREVIEW" style="width:50px;height:60px;>
+<img src="https://repository-images.githubusercontent.com/271060069/08699e80-aaba-11ea-9e08-ba55fd15a8c9" alt="APPLICATION PREVIEW" style="width:500px;height:600px;>
