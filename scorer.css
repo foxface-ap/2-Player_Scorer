@@ -1,0 +1,17 @@
+.end{
+     color:green;
+}
+
+body{
+     background-color: #232323;
+}
+#display{
+     background-color: bisque;
+     border-top: black;
+     border-bottom: black;
+     padding-bottom: 10px;
+     margin-left: 500px;
+     margin-right: 500px;
+     
+
+}
